@@ -12,13 +12,3 @@ library + demo app. It allows controlling the display with 3 simple functions:<b
 2) Set Brightness<br>
 3) Display string (formatted text)<br>
 
-Building on Linux
------------------
-make<br>
-make -f make_demo<br>
-sudo ./demo<br>
-<br>
-Copyright (c) 2018 BitBank Software, Inc.<br>
-Written by Larry Bank<br>
-bitbank@pobox.com<br>
-
