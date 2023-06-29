@@ -5,7 +5,7 @@
 //
 void setup() {
   // put your setup code here, to run once:
-  tm1637Init(8, 9); // clock, data pins
+  tm1637Init(11, 14); // clock, data pins  (connect p1.1, p1.4 ch552 or D2, D5 STM8S103F3)
   tm1637SetBrightness(4);
 }
 
